@@ -1,0 +1,4 @@
+# Tendencias e Innovacion en Tecnologia Agricola (TEA)
+temperaturaCelcius = float(input("¿Cuál es la temperatura en Celcius? "))
+temperatureFahrenheit = (9/5) * temperaturaCelcius + 32
+print("la temperatura en Farenheit es ", temperatureFahrenheit)

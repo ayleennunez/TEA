@@ -1,0 +1,5 @@
+# Tendencias e Innovación en Tecnología Agricola (TEA)
+cantidad = input("Cuántas horas se trabajó? ")
+valor = input("¿Cual es el costo por hora? " )
+total = int(cantidad) * float(valor)
+print (total) 
