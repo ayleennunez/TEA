@@ -14,4 +14,5 @@ def calificacionNotas(grade):
         print("Error, introduce un número válido entre 0.0 y 1.0.")
 
 calificacionNotas: float(input("Ingrese su nota: "))
-print("Su calificacion es: ", grade ) 
+print("Su calificacion es: ", ) 
+#Sin respuestas
